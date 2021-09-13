@@ -4,7 +4,8 @@
 
 ### Game Title
 
-Kingdom Hearts III, https://www.kingdomhearts.com/3/us/home/
+Kingdom Hearts III, 
+https://www.kingdomhearts.com/3/us/home/
 
 ### Rating
 
