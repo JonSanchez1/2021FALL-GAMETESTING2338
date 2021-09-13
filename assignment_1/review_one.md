@@ -20,7 +20,9 @@ This game is about a character named Sora going on an adventure to destroy the  
 
 Sora, one of the keyblade warriors, traveling to different worlds saving them from the heartless. He tries his best to remember the power of waking because he was told this power will be useful for when the time is right. He helps out the others on getting the seven guardians of light back together. They all have to train vigorously to attain maximum strength for the upcoming keyblade war between the light and darknesses. 
 
-The seven guardians of light must work together to defeat the 13 darknesses and prevent a keyblade war from happening. The darknesses end up almost taking over kingdom hearts
+The seven guardians of light must work together to defeat the 13 darknesses and prevent a keyblade war from happening. The darknesses end up almost taking over kingdom hearts until sora finds his way back to the world and saving everyone else and finally being able to defeat xehanort. It takes place in a keyblade graveyard and then it shifts over to a few other locations. They fight there way against the darkness until the darkness becomes too strong and takes the seven guardians of light away one by one. 
+
+Organization XIII wants to destroy and take over Kingdom Hearts so the good side, being the seven guardians of light, must work together to stop them in their tracks. Throughout the whole franchise, its been leading up to this game where they were finally able to gather the 13 darknesses to take over kingdom hearts. As for the good side, they were able to finally achieve the seven gurdians of light as well, even though it was unbalanced, light always win! It's taken years  
 
 This game is about... this should be at least 3-4 paragraphs summarizing the
 game play mechanics of the game. You should be answering the who, what,
