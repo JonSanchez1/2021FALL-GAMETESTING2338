@@ -4,8 +4,7 @@
 
 ### Game Title
 
-The name of the game, subtitle, and the URL or information on how to find
-the game.
+Kingdom Hearts III, https://www.kingdomhearts.com/3/us/home/
 
 ### Rating
 
