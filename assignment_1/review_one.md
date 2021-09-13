@@ -24,6 +24,9 @@ The seven guardians of light must work together to defeat the 13 darknesses and 
 
 Organization XIII wants to destroy and take over Kingdom Hearts so the good side, being the seven guardians of light, must work together to stop them in their tracks. Throughout the whole franchise, its been leading up to this game where they were finally able to gather the 13 darknesses to take over kingdom hearts. As for the good side, they were able to finally achieve the seven gurdians of light as well, even though it was unbalanced, light always win! It's taken years  
 
+
+on that land shall darkness prevail and light expire, the keyblade war will commence
+
 This game is about... this should be at least 3-4 paragraphs summarizing the
 game play mechanics of the game. You should be answering the who, what,
 when, where, why, and how of the game itself.
