@@ -16,7 +16,7 @@ I give this game a 7 star rating out of 10 stars.
 
 ## Summary
 
-This game is about a character named Sora going on an adventure to destroy the  heartless. He goes around disney worlds making new friends and destroying any heartless that come their way. Ultimately he is trying to stop the keyblade war from happening when the seven guardians of light and the thirteen darkness collide. We may lose but its the power of friends that overcome any obstacle that comes their  way.
+This game is about you creating your own theme park filled with plenty of rides while also maintaining a good budget. 
 
 Sora, one of the keyblade warriors, traveling to different worlds saving them from the heartless. He tries his best to remember the power of waking because he was told this power will be useful for when the time is right. He helps out the others on getting the seven guardians of light back together. They all have to train vigorously to attain maximum strength for the upcoming keyblade war between the light and darknesses. 
 
