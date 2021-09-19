@@ -16,11 +16,11 @@ I give this game a 7 star rating out of 10 stars.
 
 ## Summary
 
-This game is about you creating your own theme park filled with plenty of rides while also maintaining a good budget. 
+This game is about you creating your own theme park filled with plenty of rides while also maintaining a good budget. So this game offers two ways to play it, you could either play it as a sandbox mode or as a career. Ideally, if you played RollerCoaster Tycoon 1 & 2, you will have a general idea as to what to expect and how to already play it. For the new players that are playing this game without ever playing the other two, it will be tougher to acknowlege what you're doing and how to play it. Luckily, it has tutorials for the beginners and if you wish to skip them or not play them, that is an option too.
 
-Sora, one of the keyblade warriors, traveling to different worlds saving them from the heartless. He tries his best to remember the power of waking because he was told this power will be useful for when the time is right. He helps out the others on getting the seven guardians of light back together. They all have to train vigorously to attain maximum strength for the upcoming keyblade war between the light and darknesses. 
+In sandbox, you're basically free roaming creating what you desire. You can mess around with a plethora of scenarios here. You're able to build, create almost anything you can think of when it comes to amusement parks. Whether you want to build a water park, Roller coaster park, or even a zoo park, the possibilites are endless! You can also set up different types of scenery, maybe you want something during the day or during the night, or you can even create you're own scenery.
 
-The seven guardians of light must work together to defeat the 13 darknesses and prevent a keyblade war from happening. The darknesses end up almost taking over kingdom hearts until sora finds his way back to the world and saving everyone else and finally being able to defeat xehanort. It takes place in a keyblade graveyard and then it shifts over to a few other locations. They fight there way against the darkness until the darkness becomes too strong and takes the seven guardians of light away one by one. 
+In career mode, you have one objective and it is to make enough funds in a given time frame. The good thing is you mess up or something, you have unlimited tries, you can reset whenever. Here in career mode, you're basically tacking on different scenarios as the difficulty increases
 
 Organization XIII wants to destroy and take over Kingdom Hearts so the good side, being the seven guardians of light, must work together to stop them in their tracks. Throughout the whole franchise, its been leading up to this game where they were finally able to gather the 13 darknesses to take over kingdom hearts. As for the good side, they were able to finally achieve the seven gurdians of light as well, even though it was unbalanced, light always win! It's taken years for this keyblade war to happen but it must be stopped at all cost. As they once said, "on that land shall darkness prevail and light expire, the keyblade war will commence" but what they don't know is there is more than meets the eye.
 
@@ -31,5 +31,6 @@ I personally am a big fan when it comes to the kingdom hearts franchise they've 
 
 ## Additional Information
 
-* https://gamewith.net/kingdomhearts3/article/show/3466
-* https://www.thegamer.com/kingdom-hearts-3-story-explained/
+* https://gamerant.com/rollercoaster-tycoon-3-complete-edition-review/
+* https://rct.fandom.com/wiki/Career_mode
+*
