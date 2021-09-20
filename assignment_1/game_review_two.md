@@ -26,7 +26,7 @@ This roller coaster game is pretty enjoyable if you like the creative aspect. If
 
 ## Final Thoughts
 
-I personally am a big fan when it comes to the kingdom hearts franchise they've created. When I first started up this game, I was super excited to hear how the story would play it because, the story can be a bit complicated as to the time of when things are actually occuring. I will say, the timeline of kingdom hearts is a bit odd but it does make more sense when you play them in chronological order. Even though that's not how I played them, I was still able to understand when the game took place. And to be playing this game and finally grabbing some sense as to how everything is connecting for this one "final" story, it is amazing! Everything they added, everything they made for this game is immense! It took me a few days to complete the game but I took my time with it becaus I for one like to enjoy the beauty of the game and the amount of different side quests/objectives you can do. I personally don't have any negative comments to say about this game. I really enjoyed this game a ton! 
+My personal thoughts on this type of game/games is that they are really great to play and have fun if you're creative. I've always liked being creative when it comes to creating things or making scenes. I like the 
 
 
 ## Additional Information
