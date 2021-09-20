@@ -26,7 +26,8 @@ This roller coaster game is pretty enjoyable if you like the creative aspect. If
 
 ## Final Thoughts
 
-My personal thoughts on this type of game/games is that they are really great to play and have fun if you're creative. I've always liked being creative when it comes to creating things or making scenes. I like the 
+My personal thoughts on this type of game/games is that they are really great to play and have fun if you're creative. I've always liked being creative when it comes to creating things or making some sort of scenery. I like the 
+
 
 
 ## Additional Information
