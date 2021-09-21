@@ -26,8 +26,7 @@ I give this game a 7 star rating out of 10 stars.
 
 ## Final Thoughts
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My personal thoughts on this type of game/games is that they are really great to play and have fun if you're creative. I've always liked being creative when it comes to creating things or making some sort of scenery. I absolutely love how there is endless possibilities on what you are able to make! 
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My personal thoughts on this type of game/games is that they are really great to play and have fun with. I've always liked being creative when it comes to creating things or making some sort of scenery so, maybe I just like how creative you can get. I absolutely love how there is endless possibilities on what you are able to make! It can be something small to something enormous For the people that have never played such game, I would recommend them to try this game out. Even if you're not creative, I would say its definitely worth the buy! You don't necessarily have to be creative, just let your imagination run wild! 
 
 
 ## Additional Information
