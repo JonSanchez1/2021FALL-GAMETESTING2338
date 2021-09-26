@@ -17,7 +17,7 @@ I give this game a 8 star rating out of 10 stars.
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This game was originally created for the gameboy back in 1993, but was remastered/re-introduced with better graphics for the nintendo switch in 2019. I will be talking about the gameboy version for this rewiew. It was a rainy and thunderstorming night, link crashes onto an island. He is then woken up by a person living on the island, and from that moment, link wakes up and start his journey. He must go on traversing an Island and explore various dungeons until you find all 8 instruments to awake a whale and escape the island! 
   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In sandbox, you're basically free roaming creating what you desire. You can mess around with a plethora of scenarios here. You're able to build, create almost anything you can think of when it comes to amusement parks. Whether you want to build a water park, Roller coaster park, or even a zoo park, the possibilites are endless! You can also set up different types of scenery, maybe you want something during the day or during the night, or you can even create you're own scenery.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; While exploring these various dungeons, he must also find new weapons on this journey do defeat these enemies surrounding the dungeons. He must also collect rupees to buy certain items to be used along his journey across all dungeons. He has to solve puzzles, fight enemies and defeat all bosses that are holding one of the 8 instruments to help him awaken the whale and escape the island. There is also mini-bosses around the island he must get through to collect more items and keep exploring the island. There will be shadow nightmanres lurking through each dungeon so you have to prepared to defeat them, otherwise they'll defeat you.
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In career mode, you have one objective and it is to make enough funds in a given time frame. The good thing is you mess up or something, you have unlimited tries, you can reset whenever. Here in career mode, you're basically tacking on different scenarios as the difficulty increases each time. So now you have to work with a budget and earn enough funds in a given time frame. You might think it may seem easy but with every new ride or building you build, you're using your funds for that. So you really have to be careful how you spend your money, and if a ride breaks down, that of course cost money to fix it.
 
@@ -30,6 +30,6 @@ I give this game a 8 star rating out of 10 stars.
 
 ## Additional Information
 
-* https://gamerant.com/rollercoaster-tycoon-3-complete-edition-review/
+* https://zelda.fandom.com/wiki/The_Legend_of_Zelda:_Link%27s_Awakening_DX
 * https://rct.fandom.com/wiki/Career_mode
 * https://www.gamewatcher.com/reviews/rollercoaster-tycoon-3-complete-edition-review/13219
