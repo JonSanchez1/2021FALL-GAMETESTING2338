@@ -1,18 +1,17 @@
-# Game Review for RollerCoaster Tycoon 3?
+# Game Review for The Legend of Zelda: Link's Awakening (DX) ?
 
 ## Details
 
-### Game Title
+### Game Title 
 
-* RollerCoaster Tycoon 3
-* https://store.steampowered.com/app/1368820/RollerCoaster_Tycoon_3_Complete_Edition
-* https://www.epicgames.com/store/en-US/p/rollercoaster-tycoon-3-complete-edition
-* https://www.amazon.com/Rollercoaster-Tycoon-3-Platinum-Download/dp/B004APAEL6?th=1
-* https://www.walmart.com/ip/RollerCoaster-Tycoon-3-Complete-Edition-Frontier-Developments-PC-Digital-Download-685650117447/478675956
+* The Legend of Zelda: Link's Awakening (DX)
+* https://www.amazon.com/Legend-Zelda-Links-Awakening-Digital/dp/B017V7DIGW   [Digital Code]
+* https://www.nintendo.com/games/detail/the-legend-of-zelda-links-awakening-dx-3ds/
+
 
 ### Rating
 
-I give this game a 7 star rating out of 10 stars.
+I give this game a 8 star rating out of 10 stars.
 
 ## Summary
 
