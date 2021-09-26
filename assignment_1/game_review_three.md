@@ -7,6 +7,7 @@
 * The Legend of Zelda: Link's Awakening (DX)
 * https://www.amazon.com/Legend-Zelda-Links-Awakening-Digital/dp/B017V7DIGW   [Digital Code]
 * https://www.nintendo.com/games/detail/the-legend-of-zelda-links-awakening-dx-3ds/
+* https://www.gamestop.com/video-games/retro-gaming/retro-nintendo/game-boy/products/the-legend-of-zelda-links-awakening-dx/10131289.html
 
 
 ### Rating
