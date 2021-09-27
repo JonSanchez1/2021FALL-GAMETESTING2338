@@ -32,5 +32,4 @@ I give this game a 8 star rating out of 10 stars.
 ## Additional Information
 
 * https://zelda.fandom.com/wiki/The_Legend_of_Zelda:_Link%27s_Awakening_DX
-* https://rct.fandom.com/wiki/Career_mode
-* https://www.gamewatcher.com/reviews/rollercoaster-tycoon-3-complete-edition-review/13219
+
