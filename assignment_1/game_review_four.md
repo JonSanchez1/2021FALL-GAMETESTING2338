@@ -14,7 +14,7 @@ I give this game a 8 star rating out of 10 stars.
 
 ## Summary
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This game was originally created for the gameboy back in 1993, but was remastered/re-introduced with better graphics for the nintendo switch in 2019. I will be talking about the gameboy version for this rewiew. It was a rainy and thunderstorming night, link crashes onto an island. He is then woken up by a person living on the island, and from that moment, link wakes up and start his journey. He must go on traversing an Island and explore various dungeons until you find all 8 instruments to awake a whale and escape the island! 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you like the competitive shooter type of games, you're in for a treat. Valorant is best known for its competitive side when it comes to the game. 
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; While exploring these various dungeons, he must also find new weapons on this journey do defeat these enemies surrounding the dungeons. He must also collect rupees to buy certain items to be used along his journey across all dungeons. He has to solve puzzles, fight enemies and defeat all bosses that are holding one of the 8 instruments to help him awaken the whale and escape the island. There is also mini-bosses around the island he must get through to collect more items and keep exploring the island. There will be shadow nightmanres lurking through each dungeon so you have to prepared to defeat them, otherwise they'll defeat you.
 
