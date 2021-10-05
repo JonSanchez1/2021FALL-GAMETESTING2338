@@ -14,9 +14,9 @@ I give this game a 8 star rating out of 10 stars.
 
 ## Summary
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you like the competitive shooter type of games, you're in for a treat. Valorant is best known for its competitive side when it comes to the game. 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you like the competitive shooter type of games, you're in for a treat. Valorant is best known for its competitive side when it comes to the game. They're always updating the game with new seasons which they're actually called "Acts". It adds new agents, maps and even game modes. So it's a fast paced game, so you have to be quick on your feet because you never know whats around the corner. It's a 5v5 and the first team that successfully wins 13 rounds, wins the game!
   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; While exploring these various dungeons, he must also find new weapons on this journey do defeat these enemies surrounding the dungeons. He must also collect rupees to buy certain items to be used along his journey across all dungeons. He has to solve puzzles, fight enemies and defeat all bosses that are holding one of the 8 instruments to help him awaken the whale and escape the island. There is also mini-bosses around the island he must get through to collect more items and keep exploring the island. There will be shadow nightmanres lurking through each dungeon so you have to prepared to defeat them, otherwise they'll defeat you.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The game consists of  16 agents at the moment, but they do plan to keep adding more agents over time. Now you only have a few to actually pick when you first start playing the game, because the other agents are locked. You'll have to unlock the other agents as you level up and gain experience. Each character has four unique abilites including their ultimate. With every round that you play, you can use one free ability.
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; There is also other quests you can accomplish in this game such as photography and the famous hidden color dungeon. You can get to this dungeon pretty early on in the game after completing the second dungeon if you really wanted to. But it can only be accessible on a Game Boy Color. For the photographer quest, you have to talk to the photographer and he will ask you a questions to see if you want your picture taken. They implemented a neat little feature to where you are only able get one picture with the photographer, so if he agrees then he'll do a certain pose but if he answers all the questions with no, he will do a different pose. But you'll never be able to achieve both poses in a single file.
 
@@ -30,5 +30,7 @@ I give this game a 8 star rating out of 10 stars.
 ## Additional Information
 
 * https://www.digitaltrends.com/gaming/what-is-valorant/
+* https://proclockers.com/gaming/valorant-agent-tier-list/#:~:text=Valorant%20features%20a%20total%20of,with%20unique%20skills%20and%20abilities.
+* https://mobalytics.gg/blog/valorant-characters-agents-abilities-overview/
 
 
