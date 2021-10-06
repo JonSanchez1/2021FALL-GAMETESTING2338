@@ -32,5 +32,6 @@ I give this game a 8 star rating out of 10 stars.
 * https://www.digitaltrends.com/gaming/what-is-valorant/
 * https://proclockers.com/gaming/valorant-agent-tier-list/#:~:text=Valorant%20features%20a%20total%20of,with%20unique%20skills%20and%20abilities.
 * https://mobalytics.gg/blog/valorant-characters-agents-abilities-overview/
+* https://www.sportskeeda.com/esports/valorant-in-game-microtransactions-and-how-they-work
 
 
