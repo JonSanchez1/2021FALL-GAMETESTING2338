@@ -18,7 +18,7 @@ I give this game a 8 star rating out of 10 stars.
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The game consists of  16 agents at the moment, but they do plan to keep adding more agents over time. Now you only have a few to actually pick when you first start playing the game, because the other agents are locked. You'll have to unlock the other agents as you level up and gain experience. Each character has four unique abilites including their ultimate. With every round that you play, you can use one free ability. And with every round you continue playing, you can choose to either spend your money on guns, ammo and such or you can save it for a future round. Just know that when it is time to switch sides, your money will reset. So after the first 12 rounds, you'll be switching sides to change things up.
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Another cool feature they added, was the in game purchases
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Another cool feature they added, was the in game purchases 
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you like the adventure type games or you like solving unique puzzles, you will definitely love playing this game. Even though its one of the older type of games, it still stands the test of time. Being a simpler puzzle and fairly easy to solve once you know what you're doing. Also the The legend of Zelda gmae series have always brought originality and something unique to the table when it comes to creating the game with this unique aspect. You're a young hero and you go on your quests of journeys to explore different types of dungeons and defeating the boss within the dungeons themselves to receive rewards upon defeat. 
 
