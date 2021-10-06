@@ -24,8 +24,7 @@ I give this game a 8 star rating out of 10 stars.
 
 ## Final Thoughts
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I personally think the game was created very good! I absolutely love the puzzles within the dungeons to add this unique element. If it is just a dungeon, you walk in and go straight to the boss fight, that seems pretty boring. But when they add these puzzle elements and you have to find certain items to move on with the dungeon and unlock more paths, that makes it more exciting! They also add hidden items within certain objects/walls when you use those certain items. I think it is really cool when in order to achieve something, you must have this one item from another dungeon or after you buy it from the item shop in the game. Little things like that, really add this unique aspect to the game to make it more worth playing. 
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; After playing it for a good while now, valorant is one of those games you can get addicted to really fast if you give it a chance. It is fun and fast paced, something different than your average game out here. I would say most games, need some element to spice up the game and just make it fun. I like how their adding agents over time and with each agent, you have 4 unique abilities that are so very different from the other agents. You can choose to rush your opponent's or you can play it casual and let them rush. You can play it however it is you wish to play. 
 
 ## Additional Information
 
