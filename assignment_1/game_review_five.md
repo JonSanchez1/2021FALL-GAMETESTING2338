@@ -26,7 +26,7 @@ I give this game a 9 star rating out of 10 stars.
   
 ## Final Thoughts
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oerall, 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Overall, this game has a lot to
 
 
 ## Additional Information
