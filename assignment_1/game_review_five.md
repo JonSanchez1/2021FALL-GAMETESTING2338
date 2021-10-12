@@ -1,16 +1,16 @@
-# Game Review for Valorant ?
+# Game Review for Clash Royale ?
 
 ## Details
 
 ### Game Title 
 
-* Valorant
-* https://playvalorant.com/en-us/
-
+* Clash Royale
+* https://play.google.com/store/apps/details?id=com.supercell.clashroyale&hl=en_US&gl=US
+* https://apps.apple.com/app/id1053012308
 
 ### Rating
 
-I give this game a 8 star rating out of 10 stars.
+I give this game a 9 star rating out of 10 stars.
 
 ## Summary
 
@@ -28,9 +28,6 @@ I give this game a 8 star rating out of 10 stars.
 
 ## Additional Information
 
-* https://www.digitaltrends.com/gaming/what-is-valorant/
-* https://proclockers.com/gaming/valorant-agent-tier-list/#:~:text=Valorant%20features%20a%20total%20of,with%20unique%20skills%20and%20abilities.
-* https://mobalytics.gg/blog/valorant-characters-agents-abilities-overview/
-* https://www.sportskeeda.com/esports/valorant-in-game-microtransactions-and-how-they-work
+* https://clashroyale.com/blog/news/about-the-game
 
 
