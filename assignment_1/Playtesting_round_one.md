@@ -1,8 +1,8 @@
-# Playtest for [Game Title]
+# Playtest for [Call of Duty: Warzone]
 
-* Game Publisher
-* Game Rating
-* [Game Title Website](http://example.com)
+* Activision
+* 7/10
+* [https://www.callofduty.com/warzone]
 
 **Question:** During your playtesting where the rules of the game understandable? If not, what was not clear.
 > _Answer:_ Your answer here
