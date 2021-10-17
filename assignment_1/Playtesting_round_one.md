@@ -2,7 +2,7 @@
 
 * Treyarch, Raven Software, n-Space
 * 7/10
-* [https://www.callofduty.com/warzone]
+* [https://www.callofduty.com/blackops]
 
 **Question:** During your playtesting where the rules of the game understandable? If not, what was not clear.
 > _Answer:_ The rules were very understandable! As someone who played call of duty already, everything was uderstood faster.
