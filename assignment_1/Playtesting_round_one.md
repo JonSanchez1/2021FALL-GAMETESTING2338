@@ -20,7 +20,7 @@
 > _Answer:_ I personally think, everything clashed together very nicely. It had this simple theme and everything was easily understood. The mechanics of the game were also easy to understand once you figured out what the perks did to help your loadout. 
 
 **Question:** Did you have fun playing this game?
-> _Answer:_ Your answer here
+> _Answer:_ I personally had fun playing this game, it felt nostalgic playing it again. It has that simplicity of game mechanics that we all know and love.
 
 **Question:** During gameplay what problems or issues seemed to happen and how did you get them to reoccur?
-> _Answer:_ Your answer here
+> _Answer:_ No real issues other than server problems. Not sure if because the game is old or the insane amount of mods that are in the game caused by others. There are a couple of glitches in a few of the maps but you kind of have to just deal with it in a sense.
