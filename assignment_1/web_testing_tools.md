@@ -47,7 +47,7 @@ Perfecto Scriptless does allow defects to test cases.
 
 _If it is an automated tool, does it work with web-based tools? What languages (Java, .NET)?_ 
 
-Answer
+Perfect Scriptless does work with web-based tools. You can use languages like Java, C#, Ruby. Python and Vbscript.
 
 ### Tool Features
 * No programming skills required
