@@ -58,25 +58,25 @@ Perfect Scriptless does work with web-based tools. You can use languages like Ja
 
 _What is the name of the test tool?_ 
 
-Tool Name
+SoapUI
 
 _What company developed this test tool?_ 
 
-Company Name
+SoapUI was developed by Eviware Software AB.
 
 _Does this tool do any test case storage/recording?_ 
 
-Answer
+SoapUI does indeed do test case storage/recording.
 
 _Does this tool allow tester to link requirements or defects to test cases?_ 
 
-Answer
+SoapUI does allow the tester to do so.
 
 _If it is an automated tool, does it work with web-based tools? What languages (Java, .NET)?_ 
 
-Answer
+SoapUI does work with web-based tools. It only uses two languages, Groovy and Java.
 
 ### Tool Features
-* Feature One
-* Feature Two
-* Feature Three
+* Coverage feature: used to analyse the covered REST or SOAP services.
+* Reporting: Offers different types of reports for better and easier analysis. They are Printable Report, Data Export and HTML Reports.
+* Data Driven Testing: uses the data source test step that will connect external data source and feed the data to the webs service.
