@@ -1,16 +1,16 @@
-# Game Review for Clash Royale ?
+# Game Review for Brawl Stars ?
 
 ## Details
 
 ### Game Title 
 
-* Clash Royale
-* https://play.google.com/store/apps/details?id=com.supercell.clashroyale&hl=en_US&gl=US
-* https://apps.apple.com/app/id1053012308
+* Brawl Stars
+* https://play.google.com/store/apps/details?id=com.supercell.brawlstars&hl=en_US&gl=US
+* https://apps.apple.com/us/app/brawl-stars/id1229016807
 
 ### Rating
 
-I give this game a 9 star rating out of 10 stars.
+I give this game a 8 star rating out of 10 stars.
 
 ## Summary
 
