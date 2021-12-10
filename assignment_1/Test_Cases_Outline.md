@@ -3,7 +3,7 @@
 ## Test Details
 
 * Test Case ID:
-  * 120519
+  * 001
 * Test Case Name:
   * HideSeekChamps
 * Component: 
